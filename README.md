@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @McMusidian
+- 👋 Hi, I’m McMusidian
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning Html, css & Javascript
 - 💞️ I’m looking to collaborate on any web development project
